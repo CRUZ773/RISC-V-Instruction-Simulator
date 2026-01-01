@@ -1,3 +1,5 @@
+RISC-V-Instruction-Simulator
+
 **Implementation**
 
 code/main.cpp - Complete single-stage processor implementation
